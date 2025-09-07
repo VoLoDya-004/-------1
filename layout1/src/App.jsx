@@ -7,7 +7,7 @@ import MainThird from "./components/MainThird"
 
 export default function App() {
 
-
+  
   return (
     <>
       <Header />
